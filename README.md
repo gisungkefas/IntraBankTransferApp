@@ -30,7 +30,7 @@ Jakarta Validation (Input validation)
 
 Lombok (Simplifies boilerplate code)
 
-H2/PostgreSQL (Configurable database support)
+H2 database support
 
 SLF4J & Logback (Logging framework)
 
@@ -50,7 +50,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/money-transfer-app.git
+git clone (https://github.com/gisungkefas/IntraBankTransferApp/tree/master)
 cd money-transfer-app
 
 Configure the database in application.properties:
